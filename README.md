@@ -1,2 +1,2 @@
 # Fichas-Remissivas
-Um programa em Python projetado para facilitar a organização e busca de fichas remissivas.
+Um programa em Python projetado para facilitar a organização e busca de fichas remissivas (RM) de alunos e ex-alunos, carregando arquivos Excel e permitindo pesquisa, adição e atualização de registros de forma prática e eficiente. Ideal para escolas que utilizam sistemas de arquivamento físico de documentos e precisam modernizar o processo sem perder a essência do método original.
